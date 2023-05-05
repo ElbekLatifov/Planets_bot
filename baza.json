@@ -1,0 +1,134 @@
+[
+    {
+        "Id": 1,
+        "Name": "🌑 Merkury",
+        "Picture": {
+                "Exist": true,
+                "Name": "Merkury"
+        },
+        "Gravity":
+            {
+                "Exist":true,
+                "g": 2.72
+            }
+    },
+    {
+        "Id": 2,
+        "Name": "🪙 Venera",
+        "Picture": {
+                "Exist": true,
+                "Name": "Venera"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 8.88
+            }
+    },
+    {
+        "Id": 3,
+        "Name": "🌍 Earth",
+        "Picture": {
+                "Exist": true,
+                "Name": "Earth"
+            },
+            "Gravity":{
+                "Exist":true,
+                "g": 10
+            }
+    },
+    {
+        "Id": 4,
+        "Name": "🔴 Mars",
+        "Picture": {
+                "Exist": true,
+                "Name": "Mars"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 2
+            }
+    },
+    {
+        "Id": 5,
+        "Name": "🟠 Jupiter",
+        "Picture": {
+                "Exist": true,
+                "Name": "Jupiter"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 2.55
+            }
+    },
+    {
+        "Id": 6,
+        "Name": "🪐 Saturn",
+        "Picture": {
+                "Exist": true,
+                "Name": "Saturn"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 10.44
+            }
+    },
+    {
+        "Id": 7,
+        "Name": "🪩 Uran",
+        "Picture": {
+                "Exist": true,
+                "Name": "Uran"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 8.86
+            }
+    },
+    {
+        "Id": 8,
+        "Name": "⚪️ Neptun",
+        "Picture": {
+                "Exist": true,
+                "Name": "Neptun"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 1.17
+            }
+    },
+    {
+        "Id": 9,
+        "Name": "🌞 Sun",
+        "Picture":  {
+                "Exist": true,
+                "Name": "Sun"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 273.1
+            }
+    },
+    {
+        "Id": 10,
+        "Name": "🌙 Moon",
+        "Picture": {
+                "Exist": true,
+                "Name": "Moon"
+            },
+        "Gravity":{
+                "Exist":true,
+                "g": 1.62
+            }
+    },
+    {
+        "Id": 11,
+        "Name": "🔍 Show All",
+        "Picture": {
+                "Exist": true,
+                "Name": "hammasi"
+            },
+        "Gravity": {
+                "Exist":false
+            }
+    }
+]
